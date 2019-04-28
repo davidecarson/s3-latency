@@ -3,8 +3,8 @@
 <p align="center"><img width="100" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
 <img width="100" src="https://img.stackshare.io/service/25/amazon-s3.png" />
 </p>
-Benchmark `PUT`, `DELETE`, `GET` command for `1KB, 10KB, 1MB, 10MB` size files in each regions in `AWS S3`.
 
+Benchmark `PUT`, `DELETE`, `GET` command for `1KB, 10KB, 1MB, 10MB` size files in each regions in `AWS S3`.
 Each result shows Average latency Time for 10 times.
 
 ```python
